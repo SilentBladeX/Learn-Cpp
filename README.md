@@ -16,32 +16,40 @@ main function
 
 Use of iostream
 
+---
+
 🔹 Return Code -1 Behavior[ex1.2.cpp]
 
 Shows how returning -1 from main() indicates program failure and how it is interpreted as 255 internally due to unsigned conversion in most systems.
+
+---
 
 🔹 Multiplication Program[ex1.4.cpp]
 
 A simple program that takes two numbers as input and displays their product.
 
+---
 
 🔹 Sum of Numbers from 50 to 100[ex1.9.cpp]
 
 Uses a loop to calculate and print the sum of all integers in the range [50, 100].
 
+---
 🔹 Countdown from 10 to 0[ex1.10.cpp]
 
 Prints numbers in descending order from 10 to 0 using a loop.
 
+---
 🔹 Print Numbers in User-Specified Range[ex1.11.cpp]
 
 Prompts the user to enter a starting and ending value, then prints all numbers between them.
 
-
+---
 🔹 Sum of User-Entered Numbers[ex1.16.cpp]
 
 Continuously reads numbers from the user and computes their sum. Ends when input is terminated.
 
+---
 🔹 Count Duplicate Transactions[ex1.17.cpp]
 
 Reads several transactions (ISBN, copies sold, price) and counts how many times each ISBN appears consecutively. Demonstrates:
@@ -52,7 +60,9 @@ Comparison of data records
 
 Looping and conditional logic
 
-#Berfore moving on Bookstore Sales Transaction Cover this topics
+---
+
+   ## Berfore moving on Bookstore Sales Transaction Cover this topics
 
 [ex1.20.cpp]
 
