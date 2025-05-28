@@ -8,7 +8,7 @@
 Valid, Bcz ival is just an int
 
 // (b)
-Invalid, Bcz refrence is only an object name not constant _INLINE_VARIABLES_SUPPORTED
+Invalid, Bcz refrence is only an object name not constant 
 
 // (c)
 Valid, rval2 is just another  name of ival
